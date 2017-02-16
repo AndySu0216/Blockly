@@ -1,0 +1,26 @@
+{
+  "name": "my-blockly",
+  "version": "1.0.0",
+  "description": "play with blockly",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndySu0216/Blockly.git"
+  },
+  "keywords": [
+    "google",
+    "blockly"
+  ],
+  "author": "Andy Su",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AndySu0216/Blockly/issues"
+  },
+  "homepage": "https://github.com/AndySu0216/Blockly#readme",
+  "dependencies": {
+    "blockly": "^1.0.0"
+  }
+}
